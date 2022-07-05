@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["18254857668@s.whatsapp.net"],
+    "ownerName": "DZ STORE",
+    "instagram" : "https://instagram.com/dhilzz.storee",
+    "botName": "AFABOTZ",
+    "footer": "AFA",
+    "sessionName": "session",
+    "pathimg": "./media/Afatod.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 9999,
+        "user": 15
+    }
+}
